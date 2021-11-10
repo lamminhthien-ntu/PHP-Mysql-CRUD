@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+//Hello im testing git in ubuntu
 $conn = mysqli_connect(
     'localhost',
     'root',
